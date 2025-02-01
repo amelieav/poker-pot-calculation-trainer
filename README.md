@@ -1,4 +1,8 @@
-[text](https://docs.google.com/document/d/1-VcbbPBpb_vwS5PSUSijhbOXk7AuvfNhEnpWgsr_rOw/edit?usp=sharing)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/1ee8ddb3-d55c-42c7-bf5b-96d6cf888cda" width="55%" alt="Poker Stats">
+  <img src="https://github.com/user-attachments/assets/e6e369e0-9e6c-45e2-8df3-9ef43268786e" width="35%" alt="Poker Game">
+</div>
+
 
 # Poker Pot Calculation Trainer 🃏💰
 
