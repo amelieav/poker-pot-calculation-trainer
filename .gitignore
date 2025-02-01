@@ -1,0 +1,30 @@
+# compiled class files
+target/
+*.class
+
+# maven dependencies
+.mvn/
+**/mvnw
+**/mvnw.cmd
+
+# logs and temp files
+*.log
+hs_err_pid*
+
+# IDE specific files (VS Code, IntelliJ, Eclipse)
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+mvnw
+mvnw.cmd
+
+# JavaFX cache files
+.javafx-cache/

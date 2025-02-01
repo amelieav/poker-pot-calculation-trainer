@@ -1,0 +1,16 @@
+Poker Pot Trainer - Attribution Notice
+======================================
+
+Poker chip icons used in this application are created by smashingstocks 
+and are provided by Flaticon under a free license.
+
+Icons Source:
+<a href="https://www.flaticon.com/free-icons/poker-chip" title="poker chip icons">
+Poker chip icons created by smashingstocks - Flaticon</a>
+
+Thank you to Flaticon and smashingstocks for providing these resources.
+
+---
+Project: Poker Pot Trainer
+Developer: Amélie
+Year: 2025
