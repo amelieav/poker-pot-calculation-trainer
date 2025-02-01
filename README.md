@@ -8,13 +8,14 @@ I made this trainer to help the new tournament dealers at my university's poker 
 
 If using the .jar file to run, then the default values are:
 
-```
-1 Chips = £1 (blue)
-5 Chips = 0.05p (yellow)
-25 Chips = 0.25p (pink)
-```
+`1 Chips = £1 (blue)`
+`5 Chips = 0.05p (yellow)`
+`25 Chips = 0.25p (pink)`
 
-Then use the following command to run it: `java -jar java-poker-pot-trainer-1.0-SNAPSHOT.jar` (ensuring Java 21+ is installed)
+
+Then (ensuring Java 21+ is installed) use the following command to run it: 
+```java -jar java-poker-pot-trainer-1.0-SNAPSHOT.jar```
+
 
 ## Extra Features
 
